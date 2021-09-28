@@ -1,8 +1,8 @@
-#READ as VRE for the manuscripts written in Newārī and Devanāgarī script
+# READ as VRE for the manuscripts written in Newārī and Devanāgarī script
 
 Olga Serbaeva, version 2021.04.02
 
-##Introduction
+## Introduction
 
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
