@@ -2,7 +2,7 @@
 
 Olga Serbaeva, version 2021.04.02
 
-## Introduction
+### Introduction
 
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
@@ -81,7 +81,9 @@ From adding an item in READ to the palaeographic report
 This part of the work is to be done directly in READ.
 READ can be installed on a server, and in this case multiple collaborators can access the same instance, or it can be installed locally via Docker. (The technical side of READ, including installation shall be described in a separate document). What follows is described based on my local installation on MAC.
 
-0. Landing page of READ
+### 1. From adding an item in READ to the palaeographic report
+
+#### 1.0. Landing page of READ
 
 Let us briefly discover the toolboxes and various views of READ.
 The view consists of several distinct parts (numbered in red): 
@@ -89,12 +91,16 @@ The view consists of several distinct parts (numbered in red):
 2. A small part of the database that lists together the projects (ID column) and the titles. This shall be described further in details.
 3. The toolbox consisting of multiple small boxes: Find, Edit, View, Layout. 
 4. In between Find and Edit is a navigation bar with a “scroll” in red. This button 4 has 2 options: “scroll” and “text”, and in order to add a new document, we shall need the “scroll” one.
-The logic of item description and structure
+
+#### 1.1. The logic of item description and structure
 We shall now walk through the creation of a new item in READ. New item means a new project, and the precise organisation of the information is largely up to the researcher. I shall enter all chapters of the JY separately and by manuscripts so that I do not have more than 6-7 manuscript folios per “project”. Depending on the results to be achieved, there is no problems to add even different manuscripts into a single project.
-So, how do we create a project in READ?
+
+#### 1.2. So, how do we create a project in READ?
 One should first click on “Find item” (in order to verify if the item exists already or not). Having checked that, on should click on “Add item” in order to create a new one. This opens a rather complex dialogue window, and it is very important to understand the implied structure, as the exports of the results and visualisations shall be based on that.
 
 
+
+#### 1.3. Logical structure of an "item" in READ
 
 We see here a hierarchical sequence of quasi independent database entries. Let me explain what this contradictory description means with a graph:
 
@@ -113,7 +119,7 @@ Once you click out of the dialogue window, you will see that a blue entry with t
 At this point we have finished creating item and can now upload the images. 
 
 
-Adding images and creating baselines
+#### 1.4. Adding images and creating baselines
 We can precisely do this via new grey field which appears down right once the item is created.
 In the “Images” line we shall click on “Add new”. A dialogue window opens. 
 “Digital” allows to access the online images, for example IIIF. “Private” opens other set of options, in which “User” can be selected as a general recommendation. (Unless the project is truly huge and the collaborators should not access the same images.) One selects and uploads the image, it is confirmed by a pop-up. One should rename the image, if one wishes, for example remove file extension, etc. In order to save the new name, one should click on both “save” buttons, up and down.
@@ -131,7 +137,7 @@ Now, in order to create baseline for the palaeography, we should click once on e
 
 When one clicks now on “Properties” in the “View” subpart of the tool box, one will see that item properties list now not only images, but also base-lines.
 
-Adding edition
+#### 1.5. Adding edition
 In order to add new edition, i.e. draft manuscript transcript in my case, one should click on the “New edition” in the toolbox.
 A dialogue box will open, and there are essentially two options: once one pastes the edition into the window one can validate it line-by-line (select “import as individual freetext lines”) or all at once (“Import lines”). If the 2nd option is selected, the mistakes to be corrected shall appear in the window below. Once all is resolved, the edition can be validated (“Validate multine”). The validation depends on the particular language parameters, but Latin won’t work for Sanskrit, etc.
 Having committed multiline one can close the dialogue window.
@@ -139,11 +145,11 @@ In READ the data model allows to have more than one edition of a given item.
 In order to see the edition, one should in “text mode” (button 4 of the landing page above), drag to the right the blue square into a desires working space.
 Now we shall switch to the mark-up of the manuscript images.
 
-Basic mark-up of the images 
+#### 1.6. Basic mark-up of the images 
 In the “Text” mode as opposed to “Scroll” mode, we shall click on the square meaning “baseline”. Having selected a baseline (any order), we shall drag and drop it to the right. It will open the manuscript folio that is incorporated into HTML.
 We shall now mark the syllables/letters on the folio and, at the same time, discover the corresponding part of the toolbox.
 
 
-linkage and its verification
-working with palaeography table: base-types and defaults
-Palaeography report export
+#### 1.7. Linkage and its verification ...
+#### 1.8. working with palaeography table: base-types and defaults
+#### 1.9. Palaeography report export**
