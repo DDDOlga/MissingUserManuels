@@ -97,7 +97,7 @@ The view consists of several distinct parts (numbered in red):
 #### 1.1. The logic of item description and structure
 We shall now walk through the creation of a new item in READ. New item means a new project, and the precise organisation of the information is largely up to the researcher. I shall enter all chapters of the JY separately and by manuscripts so that I do not have more than 6-7 manuscript folios per “project”. Depending on the results to be achieved, there is no problems to add even different manuscripts into a single project.
 
-<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG1.png" alt="General View of READ after login" width="900"></p>
+<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG2.png" alt="Adding item in READ" width="500"></p>
 
 #### 1.2. So, how do we create a project in READ?
 One should first click on “Find item” (in order to verify if the item exists already or not). Having checked that, on should click on “Add item” in order to create a new one. This opens a rather complex dialogue window, and it is very important to understand the implied structure, as the exports of the results and visualisations shall be based on that.
