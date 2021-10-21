@@ -154,6 +154,6 @@ In the “Text” mode as opposed to “Scroll” mode, we shall click on the sq
 We shall now mark the syllables/letters on the folio and, at the same time, discover the corresponding part of the toolbox.
 
 
-#### 1.7. Linkage and its verification ...
+#### 1.7. Linkage and its verification
 #### 1.8. working with palaeography table: base-types and defaults
 #### 1.9. Palaeography report export**
