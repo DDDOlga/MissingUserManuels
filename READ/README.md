@@ -7,20 +7,17 @@ Olga Serbaeva, version 2021.04.02
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
 
-<img width="618" alt="Image Exercice OM" src="https://user-images.githubusercontent.com/92926436/138277998-3cd62c68-066f-48f1-bfa4-4c0d9e7a2c29.png">
-
-
 Here are the steps:
 
-### 0. Preliminary work to be done with the manuscript images
-### 1. From adding an item in READ to the palaeographic report
-- the logic of item description and structure
-- adding images and creating baselines
-- adding edition
-- basic mark-up of the images 
-- linkage and its verification
-- working with palaeography table: base-types and defaults
-- Palaeography report export
+### ### 0. Preliminary work to be done with the manuscript images
+## ### 1. From adding an item in READ to the palaeographic report
+##### - the logic of item description and structure
+##### - adding images and creating baselines
+##### - adding edition
+##### - basic mark-up of the images 
+##### - linkage and its verification
+##### - working with palaeography table: base-types and defaults
+##### - Palaeography report export
 ### 2. From diplomatic to text-critical mode of the transcript
 - 1. Word list
 - 2. Dictionary…
@@ -29,8 +26,6 @@ Here are the steps:
 ### 0. Preliminary work to be done outside of READ with the manuscript images and transcript
 #### Images:
 Having obtained the manuscript images, it is best if one goes through the whole set of items and checks if there are or not missing folios, wrongly numbered pages, and finds out where are the chapter breaks, images, etc. In a separate document one should present everything which is known about this particular manuscripts and include the information if the images can or cannot be made publicly accessible. I use Protégé for such a DB.
-
-<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG12.png" alt="Test_img_12_jp" width="500"></p>
 
 All images are in a single file, and they are numbered as follows:
 
@@ -98,6 +93,8 @@ READ can be installed on a server, and in this case multiple collaborators can a
 ### 1. From adding an item in READ to the palaeographic report
 
 #### 1.0. Landing page of READ
+
+<img width="827" alt="IMG1" src="https://user-images.githubusercontent.com/92927133/138279610-1479e698-44b1-4903-b7c9-20a7d9f47756.png">
 
 Let us briefly discover the toolboxes and various views of READ.
 The view consists of several distinct parts (numbered in red): 
