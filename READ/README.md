@@ -7,7 +7,7 @@ Olga Serbaeva, version 2021.04.02
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
 
-<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG6.png" alt="IMG1" width="500"></p>
+<img width="618" alt="Image Exercice OM" src="https://user-images.githubusercontent.com/92926436/138277998-3cd62c68-066f-48f1-bfa4-4c0d9e7a2c29.png">
 
 
 Here are the steps:
