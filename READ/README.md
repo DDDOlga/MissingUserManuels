@@ -74,7 +74,7 @@ The transcript is split in accordance with the physical lines.
 The beginning of the line is marked with a folio number followed by the line number with ), i.e. “69r7)”. The ends of the lines do not have any particular mark up unless a. a word is split into 2 lines, in this case it is connected with “=” sign, standing at the end of the first line; and b. when a part of the folio on the right is missing, in this case it is marked as ///. (No occurrence fo far.)
 
 #### Sandhi
-One can separate already in the preliminary upload the parts of the composite words with “-” sign, except the places where they overlap on a vowel. There is also a possibility to encode the vowel sandhi of the kind “ā~ā,a a~”, where ā is the vowel where two words overlap, and ~ā,a a~ is its interpretation as ā=a+a. However, these did not work well for my case and I believe that this work is to be done once palaeography is sorted out.
+One can separate already in the preliminary upload the parts of the composite words with “-” sign, except the places where they overlap on a vowel. There is also a possibility to encode the vowel sandhi of the kind “ā~ā,a a~”, where ā is the vowel where two words overlap, and ~ā,a a~ is its interpretation as ā=a+a. However, these did not work well for my case and I believe that this work is to be done once palaeography is sorted out.I am trying to modify this file 
 
 From adding an item in READ to the palaeographic report
 
@@ -154,6 +154,6 @@ In the “Text” mode as opposed to “Scroll” mode, we shall click on the sq
 We shall now mark the syllables/letters on the folio and, at the same time, discover the corresponding part of the toolbox.
 
 
-#### 1.7. Linkage and its verification
+#### 1.7. Linkage and its verification ...
 #### 1.8. working with palaeography table: base-types and defaults
 #### 1.9. Palaeography report export**
