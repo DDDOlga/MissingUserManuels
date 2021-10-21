@@ -26,14 +26,23 @@ Here are the steps:
 ### 0. Preliminary work to be done outside of READ with the manuscript images and transcript
 #### Images:
 Having obtained the manuscript images, it is best if one goes through the whole set of items and checks if there are or not missing folios, wrongly numbered pages, and finds out where are the chapter breaks, images, etc. In a separate document one should present everything which is known about this particular manuscripts and include the information if the images can or cannot be made publicly accessible. I use Protégé for such a DB.
+
 All images are in a single file, and they are numbered as follows:
+
 JY.3_A69r[8/9].JPG
+
 JY.3_A69v.JPG
+
 JY.3_A70r.JPG
+
 JY.3_A70v.JPG
+
 JY.3_A71r.JPG
+
 JY.3_A71v.JPG
+
 JY.3_A72r[9/10].JPG
+
 Here “JY” is a text-abbreviation, “3” is book number, “A” is code for the manuscript that I will use throughout research project, “71r” is a folio-number. In order to find quickly the folios for upload or check up, I also append the chapter splits, i.e. “[8/9]”, meaning that on this folio ends chapter 8 and starts chapter 9.
 
 #### Making preliminary transcript
@@ -92,12 +101,8 @@ The view consists of several distinct parts (numbered in red):
 3. The toolbox consisting of multiple small boxes: Find, Edit, View, Layout. 
 4. In between Find and Edit is a navigation bar with a “scroll” in red. This button 4 has 2 options: “scroll” and “text”, and in order to add a new document, we shall need the “scroll” one.
 
-<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG1.png" alt="General View of READ after login" width="900"></p>
-
 #### 1.1. The logic of item description and structure
 We shall now walk through the creation of a new item in READ. New item means a new project, and the precise organisation of the information is largely up to the researcher. I shall enter all chapters of the JY separately and by manuscripts so that I do not have more than 6-7 manuscript folios per “project”. Depending on the results to be achieved, there is no problems to add even different manuscripts into a single project.
-
-<p><img src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG2.png" alt="Adding item in READ" width="500"></p>
 
 #### 1.2. So, how do we create a project in READ?
 One should first click on “Find item” (in order to verify if the item exists already or not). Having checked that, on should click on “Add item” in order to create a new one. This opens a rather complex dialogue window, and it is very important to understand the implied structure, as the exports of the results and visualisations shall be based on that.
@@ -143,7 +148,7 @@ When one clicks now on “Properties” in the “View” subpart of the tool bo
 
 #### 1.5. Adding edition
 In order to add new edition, i.e. draft manuscript transcript in my case, one should click on the “New edition” in the toolbox.
-A dialogue box will open, and there are essentially two options: once one pastes the edition into the window one can validate it line-by-line (select “import as individual freetext lines”) or all at once (“Import lines”). If the 2nd option is selected, the mistakes to be corrected shall appear in the window below. Once all is resolved, the edition can be validated (“Validate multine”). The validation depends on the particular language parameters, but Latin won’t work for Sanskrit, etc.
+A dialogue box will open, and there are essentially two options: once one pastes the edition into the window one can validate it line-by-line (select “import as individual freetext lines”) or all at once (“Import lines”). If the 2nd option is selected, the mistakes to be corrected shall appear in the window below. Once all is resolved, the edition can be validated (“Validate multiline”). The validation depends on the particular language parameters, but Latin won’t work for Sanskrit, etc.
 Having committed multiline one can close the dialogue window.
 In READ the data model allows to have more than one edition of a given item.
 In order to see the edition, one should in “text mode” (button 4 of the landing page above), drag to the right the blue square into a desires working space.
@@ -154,6 +159,6 @@ In the “Text” mode as opposed to “Scroll” mode, we shall click on the sq
 We shall now mark the syllables/letters on the folio and, at the same time, discover the corresponding part of the toolbox.
 
 
-#### 1.7. Linkage and its verification
+#### 1.7. Linkage and its verification ...
 #### 1.8. working with palaeography table: base-types and defaults
 #### 1.9. Palaeography report export**
