@@ -114,7 +114,7 @@ We see here a hierarchical sequence of quasi independent database entries. Let m
 The idea of READ is to classify the project according to items, item being a physical artefact that truly existed in history, i. e. book or scroll, or loose-leaf manuscript. This item can be labeled according to what researcher wants, but one could also use the ID and titles of external databases, for example, NGMPP. Because of personal preferences, I have decided to take each chapter as an “item”.
 
 INSERT IMG2 HERE
-<img width="827" alt="IMG2" src="https://user-images.githubusercontent.com/92927133/138279610-1479e698-44b1-4903-b7c9-20a7d9f47756.png">
+<img width="827" alt="IMG2" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG2.png">
 
 The item can consist of multiple parts, in my case these shall be the manuscript folios. Read allows the users to assign under the same items the parts that a physically stored in different museums, for example. Each of the parts can have its own IDs and sequences. This is what I mean by “independent database entries.”
 Sometimes the parts can be broken into various fragments, meaning physical separation of the pieces, and these again can belong to different collections.
