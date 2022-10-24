@@ -173,10 +173,12 @@ INSERT IMG11 HERE
 In order to add new edition, i.e. draft manuscript transcript in my case, one should click on the “New edition” in the toolbox.
 
 INSERT IMG12 HERE
+<img width="827" alt="IMG12" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG12.png">
 
 A dialogue box will open, and there are essentially two options: once one pastes the edition into the window one can validate it line-by-line (select “import as individual freetext lines”) or all at once (“Import lines”). If the 2nd option is selected, the mistakes to be corrected shall appear in the window below. Once all is resolved, the edition can be validated (“Validate multiline”). The validation depends on the particular language parameters, but Latin won’t work for Sanskrit, etc.
 
 INSERT IMG13 HERE
+<img width="827" alt="IMG13" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG13.png">
 
 Having committed multiline one can close the dialogue window.
 In READ the data model allows to have more than one edition of a given item.
