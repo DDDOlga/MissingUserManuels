@@ -138,7 +138,6 @@ INSERT IMG5 HERE
 At this point we have finished creating item and can now upload the images. 
 
 INSERT IMG6 HERE
-<img width="827" alt="IMG6" src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG6.png?raw=true
 
 #### 1.4. Adding images and creating baselines
 We can precisely do this via new grey field which appears down right once the item is created.
