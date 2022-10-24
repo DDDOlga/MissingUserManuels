@@ -6,6 +6,8 @@ Olga Serbaeva, version 2021.04.02
 
 ### Introduction
 
+<img width="827" alt="Malamut" src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/Malamut.png">
+
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
 
@@ -96,7 +98,7 @@ The view consists of several distinct parts (numbered in red):
 
 INSERT IMG1 HERE
 
-<img width="1200" alt="IMG1" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG1.png">
+<img width="827" alt="IMG1" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG1.png">
 
 
 
@@ -145,16 +147,13 @@ src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG5.png">
 At this point we have finished creating item and can now upload the images. 
 
 INSERT IMG6 HERE
-<img width="827" alt="IMG6" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG6.png">
 
 
 #### 1.4. Adding images and creating baselines
 We can precisely do this via new grey field which appears down right once the item is created.
 In the “Images” line we shall click on “Add new”. A dialogue window opens. 
 
-<img width="827" alt="IMG7" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG7.png">
+INSERT IMG7 HERE
 
 “Digital” allows to access the online images, for example IIIF. “Private” opens other set of options, in which “User” can be selected as a general recommendation. (Unless the project is truly huge and the collaborators should not access the same images.) One selects and uploads the image, it is confirmed by a pop-up. One should rename the image, if one wishes, for example remove file extension, etc. In order to save the new name, one should click on both “save” buttons, up and down.
 
@@ -162,41 +161,31 @@ Image files should not have empty spaces in the names, these should be replaced 
 The filled in image upload part looks as follows:
 
 INSERT IMG8 HERE
-<img width="827" alt="IMG8" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG8.png">
 
 One can rename the images by clicking on them even after upload, and also add the tags and annotations.
 The first 3 lines of this grey box (I typed there JY.3.9_C), shall be the database entries displayed in the subsection “2” of the landing page of READ (see above). Now, in order to create the base-lines, we should click on the “scroll” button in the tool box. (It might be necessary to do it 2 times or shift-reload READ for the changes to become visible.)
 What one sees in the toolbox now, is not only item, i.e. JY.3.9_C, but also a tiny “camera”, and when one clicks on it, the list of uploaded images becomes visible.
 
 INSERT IMG9 HERE
-<img width="827" alt="IMG9" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG9.png">
 
 Now, in order to create baseline for the palaeography, we should click once on each square sign after +. One will see that the same square sign has appeared in line with “paper” and “camera” signs, and when one clicks on that, one will see the list of created base-lines.
 
 INSERT IMG10 HERE
-<img width="827" alt="IMG10" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG10.png">
 
 When one clicks now on “Properties” in the “View” subpart of the tool box, one will see that item properties list now not only images, but also base-lines.
 
 INSERT IMG11 HERE
-<img width="827" alt="IMG11" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG11.png">
+
+<img width="827" alt="IMG2" src=https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG11.png>
 
 #### 1.5. Adding edition
 In order to add new edition, i.e. draft manuscript transcript in my case, one should click on the “New edition” in the toolbox.
 
 INSERT IMG12 HERE
-<img width="827" alt="IMG12" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG12.png">
 
 A dialogue box will open, and there are essentially two options: once one pastes the edition into the window one can validate it line-by-line (select “import as individual freetext lines”) or all at once (“Import lines”). If the 2nd option is selected, the mistakes to be corrected shall appear in the window below. Once all is resolved, the edition can be validated (“Validate multiline”). The validation depends on the particular language parameters, but Latin won’t work for Sanskrit, etc.
 
 INSERT IMG13 HERE
-<img width="827" alt="IMG13" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG13.png">
 
 Having committed multiline one can close the dialogue window.
 In READ the data model allows to have more than one edition of a given item.
