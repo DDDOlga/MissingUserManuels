@@ -6,8 +6,6 @@ Olga Serbaeva, version 2021.04.02
 
 ### Introduction
 
-<img width="827" alt="Malamut" src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/Malamut.png">
-
 What is READ? [https://github.com/readsoftware/read](https://github.com/readsoftware/read)
 I started to work with READ in December 2020, and here is a sample procedure of what can be done with READ based on the manuscripts of the Jayadrathayāmala. Having selected a single chapter covered by a multiple manuscripts, I would like to guide a potential user through a sample workflow comprising such major items as palaeography, working with the transcript in terms of syntax, lexicography, and dictionaries, text-critical mode, export of the results and further analysis in Python, with dynamic visualisations and publication options.
 
@@ -123,17 +121,12 @@ The item can consist of multiple parts, in my case these shall be the manuscript
 Sometimes the parts can be broken into various fragments, meaning physical separation of the pieces, and these again can belong to different collections.
 
 INSERT IMG3 HERE
-<img width="827" alt="IMG3" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG3.png">
-
 
 Fortunately, the above being not always the case, and in my project the level of parts if followed by the level of surfaces, which are respectively recto and verso of a folio.
 The last level, that of text, serves to link the transcript to the hierarchical structure that includes and explains the images. I.e. I shall be using the same label for the text, because I want to link 1 chapter transcript (JY.3.9_C) to multiple folios on which it physically exists.
 One should take care to link all subparts of a given item to a text, i.e. one should repeat the whole hierarchical navigation as many times as one has surfaces in a given item. This is one more reason, why I prefer to work at a chapter, and not at a book level.
 
 INSERT IMG4 HERE
-<img width="827" alt="IMG4" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG4.png">
-
 
 While filling in the structure one should press “Enter” after every piece of typed information to be sure that it is saved. READ jumps to sequence 1, part 1 throughout the table, therefore one should scroll down to the desired item every time one needs to expand the information.
 The “sequence” in the “part” and the “number” in the “surface” organise the material by order, thus one should enter order numbers there. Result of the last folio of the newly added item will look somewhat like this (fragment left untouched):
@@ -141,13 +134,11 @@ The “sequence” in the “part” and the “number” in the “surface” o
 Once you click out of the dialogue window, you will see that a blue entry with the label of the item appeared in the toolbox between Find and Edit.
 
 INSERT IMG5 HERE
-<img width="827" alt="IMG5" 
-src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG5.png">
 
 At this point we have finished creating item and can now upload the images. 
 
 INSERT IMG6 HERE
-
+<img width="827" alt="IMG6" src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG6.png?raw=true
 
 #### 1.4. Adding images and creating baselines
 We can precisely do this via new grey field which appears down right once the item is created.
@@ -175,8 +166,6 @@ INSERT IMG10 HERE
 When one clicks now on “Properties” in the “View” subpart of the tool box, one will see that item properties list now not only images, but also base-lines.
 
 INSERT IMG11 HERE
-
-<img width="827" alt="IMG2" src=https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG11.png>
 
 #### 1.5. Adding edition
 In order to add new edition, i.e. draft manuscript transcript in my case, one should click on the “New edition” in the toolbox.
