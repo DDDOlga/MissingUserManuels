@@ -38,7 +38,7 @@ JY.3_A71v.JPG
 JY.3_A72r[9/10].JPG
 Here “JY” is a text-abbreviation, “3” is book number, “A” is code for the manuscript that I will use throughout research project, “71r” is a folio-number. In order to find quickly the folios for upload or check up, I also append the chapter splits, i.e. “[8/9]”, meaning that on this folio ends chapter 8 and starts chapter 9.
 
-#### Making preliminary transcript
+#### Making a preliminary transcript
 Besides the folios, we also need to prepare the basic transcript of the manuscript. The closer it is to what is really on the folio, the easier and faster is the work in READ. As I had the full text already transcribed (from the manuscripts A for all 4 books), I only need to modify the transcript to fit exactly any new manuscript.
 
 Sample of JY.3.9_A:
