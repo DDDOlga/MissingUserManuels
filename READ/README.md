@@ -137,6 +137,8 @@ The “sequence” in the “part” and the “number” in the “surface” o
 Once you click out of the dialogue window, you will see that a blue entry with the label of the item appeared in the toolbox between Find and Edit.
 
 INSERT IMG5 HERE
+<img width="827" alt="IMG5" 
+src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG5.png">
 
 At this point we have finished creating item and can now upload the images. 
 
