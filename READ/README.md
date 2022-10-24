@@ -38,7 +38,7 @@ JY.3_A71v.JPG
 JY.3_A72r[9/10].JPG
 Here “JY” is a text-abbreviation, “3” is book number, “A” is code for the manuscript that I will use throughout research project, “71r” is a folio-number. In order to find quickly the folios for upload or check up, I also append the chapter splits, i.e. “[8/9]”, meaning that on this folio ends chapter 8 and starts chapter 9.
 
-#### Making a preliminary transcript
+#### Making preliminary transcript
 Besides the folios, we also need to prepare the basic transcript of the manuscript. The closer it is to what is really on the folio, the easier and faster is the work in READ. As I had the full text already transcribed (from the manuscripts A for all 4 books), I only need to modify the transcript to fit exactly any new manuscript.
 
 Sample of JY.3.9_A:
@@ -127,8 +127,9 @@ The last level, that of text, serves to link the transcript to the hierarchical 
 One should take care to link all subparts of a given item to a text, i.e. one should repeat the whole hierarchical navigation as many times as one has surfaces in a given item. This is one more reason, why I prefer to work at a chapter, and not at a book level.
 
 INSERT IMG4 HERE
+<img width="827" alt="IMG4" 
+src="https://github.com/DDDOlga/MissingUserManuels/blob/main/READ/IMG4.png">
 
-<img width="827" alt="IMG4" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG4.png">
 
 While filling in the structure one should press “Enter” after every piece of typed information to be sure that it is saved. READ jumps to sequence 1, part 1 throughout the table, therefore one should scroll down to the desired item every time one needs to expand the information.
 The “sequence” in the “part” and the “number” in the “surface” organise the material by order, thus one should enter order numbers there. Result of the last folio of the newly added item will look somewhat like this (fragment left untouched):
