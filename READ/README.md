@@ -128,6 +128,8 @@ One should take care to link all subparts of a given item to a text, i.e. one sh
 
 INSERT IMG4 HERE
 
+<img width="827" alt="IMG4" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG4.png">
+
 While filling in the structure one should press “Enter” after every piece of typed information to be sure that it is saved. READ jumps to sequence 1, part 1 throughout the table, therefore one should scroll down to the desired item every time one needs to expand the information.
 The “sequence” in the “part” and the “number” in the “surface” organise the material by order, thus one should enter order numbers there. Result of the last folio of the newly added item will look somewhat like this (fragment left untouched):
 
