@@ -153,6 +153,8 @@ Image files should not have empty spaces in the names, these should be replaced 
 The filled in image upload part looks as follows:
 
 INSERT IMG8 HERE
+<img width="827" alt="IMG8" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG8.png">
+
 
 One can rename the images by clicking on them even after upload, and also add the tags and annotations.
 The first 3 lines of this grey box (I typed there JY.3.9_C), shall be the database entries displayed in the subsection “2” of the landing page of READ (see above). Now, in order to create the base-lines, we should click on the “scroll” button in the tool box. (It might be necessary to do it 2 times or shift-reload READ for the changes to become visible.)
