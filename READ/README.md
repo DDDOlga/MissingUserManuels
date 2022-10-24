@@ -62,7 +62,7 @@ ta tha da dha na
 pa pha ba bha ma
 ya ra la va
 śa ṣa sa ha
-Consonants dis not require any modification. The sorting order for Sanskrit is Sanskrit, “kṣa” is classified under “ka”.
+Consonants did not require any modification. The sorting order for Sanskrit is Sanskrit, “kṣa” is classified under “ka”.
 A very important point is virama: “m+virama” = “m∙”, fail to follow this will generate additional syllables in READ.
 
 So far (April 2021) I have used only single and double bars as punctuation signs: | and ||.
@@ -121,7 +121,6 @@ The item can consist of multiple parts, in my case these shall be the manuscript
 Sometimes the parts can be broken into various fragments, meaning physical separation of the pieces, and these again can belong to different collections.
 
 INSERT IMG3 HERE
-<img width="827" alt="IMG3" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG3.png">
 
 Fortunately, the above being not always the case, and in my project the level of parts if followed by the level of surfaces, which are respectively recto and verso of a folio.
 The last level, that of text, serves to link the transcript to the hierarchical structure that includes and explains the images. I.e. I shall be using the same label for the text, because I want to link 1 chapter transcript (JY.3.9_C) to multiple folios on which it physically exists.
