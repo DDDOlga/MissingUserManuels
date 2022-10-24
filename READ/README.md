@@ -96,7 +96,7 @@ The view consists of several distinct parts (numbered in red):
 
 INSERT IMG1 HERE
 
-<img width="827" alt="IMG1" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG1.png">
+<img width="1200" alt="IMG1" src="https://github.com/DDDOlga/MissingUserManuels/blob/a75b9d4f643c4031a2ff78f1959185a68d92a95e/READ/IMG1.png">
 
 
 
