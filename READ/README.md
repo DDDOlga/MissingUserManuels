@@ -27,7 +27,7 @@ Here are the steps:
 
 ### 0. Preliminary work to be done outside of READ with the manuscript images and transcript
 #### Images:
-Having obtained the manuscript images, it is best if one goes through the whole set of items and checks if there are or not missing folios, wrongly numbered pages, and finds out where are the chapter breaks, images, etc. In a separate document one should present everything which is known about this particular manuscripts and include the information if the images can or cannot be made publicly accessible. I use Protégé for such a DB.
+Having obtained the manuscript images, it is best if one goes through the whole set of items and checks if there are or are no missing folios, wrongly numbered pages, and find out where the chapter breaks, images, etc. are. In a separate document one should present everything which is known about this particular manuscript and include the information if the images can or cannot be made publicly accessible. I use Protégé for such a DB.
 All images are in a single file, and they are numbered as follows:
 JY.3_A69r[8/9].JPG
 JY.3_A69v.JPG
